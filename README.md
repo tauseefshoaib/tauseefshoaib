@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tauseefshoaib@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/131n40cbZmu973qomsV7O2u-q9M5LhlCJ/view?usp=sharing](https://drive.google.com/file/d/131n40cbZmu973qomsV7O2u-q9M5LhlCJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BkZtKtU5kIinVDjqBFfh_oV2Wl7T02Gq/view?usp=drive_link](https://drive.google.com/file/d/1BkZtKtU5kIinVDjqBFfh_oV2Wl7T02Gq/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
