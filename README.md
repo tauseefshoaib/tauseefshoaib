@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tauseefshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="tauseefshoaib" /> </p>
 
-- 📫 Reach me at **tauseefshoaib@gmail.com**
+- 📫 want to reach me? **tauseefshoaib@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1Zbp59fUY0Kyoq5FeKv3wFHL2XJHZr-26?usp=sharing)
+- 📄 want to know about my experiences? [Resume](https://drive.google.com/drive/folders/1Zbp59fUY0Kyoq5FeKv3wFHL2XJHZr-26?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
