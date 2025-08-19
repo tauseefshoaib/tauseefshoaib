@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm Tauseef Shoaib</h1>
-<h3 align="center">A passionate mobile developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tauseefshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="tauseefshoaib" /> </p>
 
 - 📫 Reach me at **tauseefshoaib@gmail.com**
