@@ -1,11 +1,15 @@
-<!-- Right-aligned LeetCode card -->
-<img src="https://leetcard.jacoblin.cool/tauseefshoaib?ext=heatmap"
-     alt="Leetcode Stats"
-     align="right"
-     width="420" />
-
-- 📄 want to know about my experiences? [Resume](https://drive.google.com/drive/folders/1Zbp59fUY0Kyoq5FeKv3wFHL2XJHZr-26?usp=sharing)
-- 🖇️ let's connect on [LinkedIn](https://linkedin.com/in/tauseefshoaib)
-- 👾 i sometimes code on [Leetcode](https://leetcode.com/u/tauseefshoaib/)
-
-<br clear="both" />
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>📄 want to know about my experiences? <a href="https://drive.google.com/drive/folders/1Zbp59fUY0Kyoq5FeKv3wFHL2XJHZr-26?usp=sharing">Resume</a></li>
+        <li>🖇️ let's connect on <a href="https://linkedin.com/in/tauseefshoaib">LinkedIn</a></li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="right">
+      <a href="https://leetcode.com/u/tauseefshoaib/">
+        <img src="https://leetcard.jacoblin.cool/tauseefshoaib?ext=heatmap" alt="LeetCode Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
