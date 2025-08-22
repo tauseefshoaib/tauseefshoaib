@@ -1,12 +1,12 @@
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <ul>
         <li>📄 want to know about my experiences? <a href="https://drive.google.com/drive/folders/1Zbp59fUY0Kyoq5FeKv3wFHL2XJHZr-26?usp=sharing">Resume</a></li>
         <li>🖇️ let's connect on <a href="https://linkedin.com/in/tauseefshoaib">LinkedIn</a></li>
       </ul>
     </td>
-    <td width="40%" valign="top" align="right">
+    <td width="50%" valign="top" align="right">
       <a href="https://leetcode.com/u/tauseefshoaib/">
         <img src="https://leetcard.jacoblin.cool/tauseefshoaib?ext=heatmap" alt="LeetCode Stats" />
       </a>
