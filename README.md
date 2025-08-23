@@ -6,7 +6,7 @@
         <li>🖇️ let's connect on <a href="https://linkedin.com/in/tauseefshoaib">LinkedIn</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top" align="right">
+    <td width="50%" valign="center"> 
       <a href="https://leetcode.com/u/tauseefshoaib/">
         <img src="https://leetcard.jacoblin.cool/tauseefshoaib?ext=heatmap" alt="LeetCode Stats" />
       </a>
